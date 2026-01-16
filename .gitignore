@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+# ML models
+*.keras
+*.h5
+*.pt
+*.pth
+
+# TensorFlow / Torch
+*.dll
+*.pyd
+*.lib
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
